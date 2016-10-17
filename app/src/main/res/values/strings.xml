@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Hatch</string>
-    <string name="test_text">Hello DD</string>
+    <string name="test_text">Hello </string>
+    <string name="splash_text">Wiki Image Search</string>
+    <string name="text_back">Back</string>
+    <string name="text_search">Search</string>
+
 </resources>
