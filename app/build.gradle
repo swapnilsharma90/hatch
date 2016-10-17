@@ -16,6 +16,7 @@ android {
         textReport true
         ignoreWarnings false
         abortOnError true
+        disable 'IconMissingDensityFolder','IconDensities','RecyclerView','InvalidPackage','UnusedResources'
     }
 
     afterEvaluate {
